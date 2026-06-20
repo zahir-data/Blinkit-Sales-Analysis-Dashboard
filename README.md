@@ -23,7 +23,8 @@ The objective of this project is to analyze sales performance and identify key b
 
 ## Dashboard Preview
 
-https://github.com/zahir-data/Blinkit-Sales-Analysis-Dashboard/blob/main/Dashboard_Screenshot.png
+<img width="699" height="363" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/b385fdc1-c288-4733-9a0f-476e1cb335a1" />
+
 
 ## Key Insights
 
