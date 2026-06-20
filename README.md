@@ -46,5 +46,3 @@ The objective of this project is to analyze sales performance and identify key b
 ## Conclusion
 
 This dashboard provides actionable insights into Blinkit's sales performance and helps support data-driven business decisions.
-# Blinkit-Sales-Analysis-Dashboard
-Interactive Excel Dashboard for analyzing Blinkit's sales performance and business insights.
